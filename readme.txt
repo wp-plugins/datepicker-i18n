@@ -2,7 +2,7 @@
 Contributors: dancoulter
 Tags: calendar, jquery, javascript, translation, i18n, l10n
 Requires at least: 2.6
-Tested up to: 2.6
+Tested up to: 2.7
 Stable tag: 0.1
 
 Globally translate your jQuery UI Datepicker instances.
